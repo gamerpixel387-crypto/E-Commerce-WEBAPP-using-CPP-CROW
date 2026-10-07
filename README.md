@@ -1,6 +1,8 @@
-# Minimal. — E-Commerce Web App (C++ Crow + React)
+# E-Commerce App using C++ Crow — Web Edition
 
 A minimalist, black-and-white e-commerce storefront for everyday accessories. It has product browsing, search and category filters, user accounts, and a persistent shopping cart.
+
+> **This is the Web edition.** The project also has a Mobile edition (React mobile-style UI, C++ Crow backend and a Kotlin Android client) in a companion repository: [E-Commerce-APP-using-CPP-CROW](https://github.com/gamerpixel387-crypto/E-Commerce-APP-using-CPP-CROW).
 
 The repository contains two backends for the same API:
 
